@@ -9,7 +9,7 @@ PYTHON MINI-PROJECT FOR MSC. BIOINFORMATICS
 import random
 from amino_acids import aa, codons, aa_table   # you may find these useful
 from load import load_seq
-
+dna = load_seq("./data/X73525.fa")
 
 def shuffle_string(s):
     """Shuffles the characters in the input string
