@@ -1,7 +1,3 @@
-# PythonMiniProject2020
+# GeneFinder
 
-A template for the mini-project for the programmmig for Bilogist Class.
-
-Please read the  [Mino Projects](mini_projects.md) file for instructions. 
-
-All the best!
+This is the base repository for the gene-finder mini project.
